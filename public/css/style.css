@@ -4,6 +4,10 @@ h1 {
   color: darkorange;
 }
 
+h2 {
+  color: blue;
+}
+
 body .done {
   text-decoration: line-through;
 }
